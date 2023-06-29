@@ -1,2 +1,2 @@
 # BatchWatermarker
-A simple batch image watermarker. Coded with Tkinter. 
+A simple batch image watermarker using Tkinter package.
